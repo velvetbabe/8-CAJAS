@@ -1,0 +1,59 @@
+.padre{
+	   background-color: red;
+	   padding:50px;
+	   margin:10px;
+	   border:3px solid black;
+	   width:40px;
+	   height:40px;
+	   display:inline-block
+      }
+
+.madre{
+	   background-color:red;
+	   padding:50px 10px;
+	   margin-top:40px;
+	   margin-bottom:40px;
+	   margin-left:10px;
+	   border:3px solid black;
+	   width:400px;
+	   height:60px;
+	   display:block;
+	   text-align:center;
+
+        }
+
+.hijomayor{
+	    background-color:yellow;
+	    padding-top:40px;
+	    padding-bottom:40px;
+	    padding-left:40px;
+	    padding-right:40px;
+ 	    margin-top:-40px;
+ 	    margin-bottom:20px;
+ 	    border:3px solid black;
+ 	    width:40px;
+ 	    height:50px;
+ 	    display:inline-block;
+        }
+
+ .hermana{
+        background-color:red;
+ 	    padding:40px;
+ 	    margin:10px;
+ 	    border:3px solid black;
+ 	    width:60px;
+ 	    height:60px;
+ 	    display:inline-block;
+
+        }         
+
+
+.prima{
+	    background-color:red;
+ 	    padding:40px;
+ 	    margin:10px;
+ 	    border:3px solid black;
+ 	    width:60px;
+ 	    height:60px;
+ 	    display:block;
+}
